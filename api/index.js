@@ -1,10 +1,11 @@
 const express = require("express")
 const app = express()
-const port = 3000
 
 const mysql = require("mysql")
 const config = require("./config")
 const uuid = require("uuid")
+
+const port = config.port || 3000
 
 app.use(express.json())
 

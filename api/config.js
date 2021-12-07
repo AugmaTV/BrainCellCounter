@@ -3,5 +3,6 @@ module.exports = {
     host : "localhost",
     user : "root",
     mdp : "",
-    connectionLimit : 10
+    connectionLimit : 10,
+    port : 3000
 }
