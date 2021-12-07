@@ -12,7 +12,7 @@ Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
 Install the package.
 
 ```sh
-git clone https://github.com/AkumaSama/BrainCellCounter
+git clone https://github.com/AkumaSama/BrainCellCounter.git
 cd BrainCellCounter
 cd api
 npm i
@@ -33,7 +33,7 @@ BOT :
 node run start
 ```
 
-Yep it's the same command :)
+Yep it's the same command 😀
 
 ## Start development
 
@@ -54,4 +54,4 @@ BOT :
 node run dev
 ```
 
-Yep it's the same command again :)
+Yep it's the same command again 😀
