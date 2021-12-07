@@ -1,8 +1,11 @@
 # BrainCellCounter
 
+<a href="https://www.npmjs.com/package/discord.js"><img src="https://img.shields.io/npm/v/discord.js.svg?maxAge=3600" alt="npm version" /></a>
+<a href="https://www.npmjs.com/package/express"><img src="https://img.shields.io/npm/v/express.svg?maxAge=3600" alt="npm version" /></a>
+
 This repository contains
-- expressjs API
-- Discord v13.3.1 Bot
+- express v4.17.1 API
+- discord.js v13.3.1 BOT
 - ✨Magic ✨
 
 ## Installation
