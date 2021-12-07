@@ -10,7 +10,7 @@ This repository contains
 
 ## Installation
 
-Dillinger requires [Node.js](https://nodejs.org/) v16+ to run.
+BrainCellCounter requires [Node.js](https://nodejs.org/) v16+ to run.
 
 Install the package.
 
